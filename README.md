@@ -45,6 +45,7 @@ Our responsive design approach allows for ease of access across multiple devices
 ### Demo
 
 Here is a working live demonstration: https://mrblach.github.io/clock/
+
 ---
 <h1 id="development">Development</h1>
 
