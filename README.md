@@ -39,12 +39,21 @@ A simple app using built-in javascript methods to display current time and date.
 
 ### Landing Page
 
-Our responsive design approach allows for ease of access across multiple devices.
-   <img src="images/viewport.png">
+Responsive design and mobile first approach allow for ease of access across devices.
 
-### Demo
+<img src="images/viewport.png">
 
 Here is a working live demonstration: https://mrblach.github.io/clock/
+
+### Steps To Execute This App
+- Download the entire code
+- Open the index.html file
+
+### Technologies used:
+- HTML
+- Bootstrap [style/presentation]
+- Javascript [logic/functionality]
+
 ---
 <h1 id="development">Development</h1>
 
