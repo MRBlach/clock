@@ -45,6 +45,7 @@ Responsive design and mobile first approach allow for ease of access across devi
 
 Here is a working live demonstration: https://mrblach.github.io/clock/
 
+<<<<<<< HEAD
 ### Steps To Execute This App
 - Download the entire code
 - Open the index.html file
@@ -54,6 +55,8 @@ Here is a working live demonstration: https://mrblach.github.io/clock/
 - Bootstrap [style/presentation]
 - Javascript [logic/functionality]
 
+=======
+>>>>>>> c07cd8f409578e3caf2ef9502e9cc52cabc1898c
 ---
 <h1 id="development">Development</h1>
 
